@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="flex flex-row w-1/2 justify-around pb-1 bg-slate-900">
            <label>LinkedIn</label>
            <label>GitHub</label>
-           <label>Insatgram</label>
+           <label>Instagram</label>
           </div>
          </div>
          <div className="flex justify-center bg-slate-900">

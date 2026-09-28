@@ -3,7 +3,7 @@ import Projects from "./Projects.jsx";
 
 const Body = () => {
     return (
-        <div className="flex-1 p-8 bg-slate-100">
+        <div className="flex-1 p-8 bg-white">
         <About/>
         <Projects/>
         </div>
